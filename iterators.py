@@ -30,4 +30,5 @@ if __name__ == '__main__':
     for element in fibonacci:
         print(element)
         time.sleep(1)
+        
 
